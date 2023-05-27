@@ -6,16 +6,16 @@
 ### I'm Marcia, a frontend developer 👩‍💻 that used to be UI/UX designer and Product manager   
   
 
-- 🔭 I’m open for work  
+🔭 I’m open for work  
   
 
-- 🌱 I’m currently learning Typescript and React Native  
+🌱 I’m currently learning Typescript and React Native  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+❓ Ask me about anything related to usability and user flows
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+⚡ Fun fact: I play petanque
   
 
 <br/>  
