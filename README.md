@@ -9,7 +9,7 @@
 🔭 I’m open for work  
   
 
-🌱 I’m currently learning Typescript and React Native  
+🌱 I’m currently learning Typescript and playing with Three.js
   
 
 ❓ Ask me about anything related to usability and user flows
